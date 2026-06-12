@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="assets/mangaba-logo.svg" alt="Mangaba AI" width="140"/>
+
+  [![Mangaba AI](https://img.shields.io/badge/Mangaba-AI-F97518?style=for-the-badge)](https://www.mangaba.ia.br)
+  [![Site](https://img.shields.io/badge/mangaba.ia.br-1E0D01?style=for-the-badge)](https://www.mangaba.ia.br)
+</div>
+
 # Visão Computacional Mangaba Enjoy
 
 Este repositório contém uma aplicação de linha de comando (CLI) para detecção e extração de features de objetos usando modelos YOLOv12. A aplicação é otimizada para execução via PowerShell, permitindo processamento eficiente de imagens e vídeos.
